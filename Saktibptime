@@ -94,6 +94,18 @@
         "key": "sd666",
         "expirydate": "05-11-2025",
         "Allowoffline": true
+    },
+{
+        "device_id": "f1f7359429f7df6d",
+        "key": "yg345",
+        "expirydate": "05-11-2025",
+        "Allowoffline": true
+    },
+{
+        "device_id": "253a81c5089092a1",
+        "key": "ft545",
+        "expirydate": "05-11-2025",
+        "Allowoffline": true
     }
 
 
