@@ -106,6 +106,18 @@
         "key": "ft545",
         "expirydate": "05-11-2025",
         "Allowoffline": true
+    },
+{
+        "device_id": "f1f7359429f7df6d",
+        "key": "yg345",
+        "expirydate": "05-11-2025",
+        "Allowoffline": true
+    },
+{
+        "device_id": "51773ef931de8f3f",
+        "key": "pp455",
+        "expirydate": "06-11-2025",
+        "Allowoffline": true
     }
 
 
