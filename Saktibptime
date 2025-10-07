@@ -166,7 +166,14 @@
         "key": "et3579",
         "expirydate": "06-11-2025",
         "Allowoffline": true
+    },
+{
+        "device_id": "c59604e18fc339f7",
+        "key": "sd345",
+        "expirydate": "07-11-2025",
+        "Allowoffline": true
     }
+
 
 
 
